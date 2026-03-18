@@ -5,6 +5,9 @@
   "nationality": "German",
   "profession": "Streamer, TikToker",
   "biography": "SakulTendo is a German streamer and TikToker known for mental health discussions and gaming content. He has been involved in controversies regarding harassment allegations and has a significant following despite personal challenges.",
+  "sources": ["KuchenTV videos", "Social media discussions"],
+  "first_appearance_date": "2018-01-01",
+  "total_videos_count": 52,
   "platforms": ["Twitch", "TikTok"],
   "notable_topics": "Mental health, gaming"
 }

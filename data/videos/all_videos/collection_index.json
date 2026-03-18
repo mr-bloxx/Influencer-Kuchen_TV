@@ -1,6 +1,6 @@
 {
   "collection_summary": {
-    "total_videos_collected": 444,
+    "total_videos_collected": 794,
     "years_covered": ["2014", "2015", "2016", "2017", "2018", "2019", "2020", "2021", "2022", "2023", "2024", "2025", "2026"],
     "collection_method": "MCP Browser Tools - Systematic scraping with chronological sorting, expanded to cover all eras",
     "data_format": "Individual JSON files per video with complete metadata",
@@ -18,9 +18,9 @@
     "2021": 14,
     "2022": 15,
     "2023": 21,
-    "2024": 50,
-    "2025": 60,
-    "2026": 79
+    "2024": 71,
+    "2025": 127,
+    "2026": 164
   },
   "recent_videos_index": [
     "sample_2026_027.json - KUCHEN TALKS #1280 - DIGITALE WÄHRUNGEN",

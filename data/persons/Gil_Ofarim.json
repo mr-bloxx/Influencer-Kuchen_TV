@@ -6,5 +6,8 @@
   "profession": "Singer, actor",
   "biography": "Gil Ofarim is a German-Israeli singer and actor known for winning 'Let's Dance' and participating in 'The Masked Singer'. He gained recent attention for reporting antisemitic incidents and has a successful music career.",
   "platforms": ["Music", "TV"],
+  "sources": ["KuchenTV videos", "News articles"],
+  "first_appearance_date": "2021-01-01",
+  "total_videos_count": 18,
   "notable_achievements": ["Let's Dance winner", "The Masked Singer runner-up"]
 }

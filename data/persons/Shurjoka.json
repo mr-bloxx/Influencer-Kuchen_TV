@@ -5,6 +5,9 @@
   "nationality": "Austrian",
   "profession": "Twitch streamer, YouTuber",
   "biography": "Shurjoka is an Austrian Twitch streamer and YouTuber born in Graz, Germany. Known for controversial content involving gaming and streamer drama. Has been involved in multiple legal disputes and public controversies regarding harassment and false statements.",
+  "sources": ["Wikipedia (German)", "News articles from ad-hoc-news.de", "Mein-MMO.de legal coverage"],
+  "first_appearance_date": "2014-01-01",
+  "total_videos_count": 280,
   "platforms": ["Twitch", "YouTube"],
   "notable_incidents": "Multiple court cases for defamation and harassment"
 }

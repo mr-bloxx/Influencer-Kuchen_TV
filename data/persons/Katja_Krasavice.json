@@ -6,5 +6,8 @@
   "profession": "Singer, YouTuber, influencer",
   "biography": "Katja Krasavice is a German-Czech singer and influencer known for albums like 'Boss B*tch' and 'Pussy Power'. She grew up on a farm and rose to fame through YouTube and music, often addressing controversial topics and maintaining a bold persona.",
   "platforms": ["YouTube", "Music", "Instagram"],
+  "sources": ["KuchenTV videos", "News articles"],
+  "first_appearance_date": "2020-01-01",
+  "total_videos_count": 23,
   "notable_albums": ["Boss B*tch", "Pussy Power"]
 }

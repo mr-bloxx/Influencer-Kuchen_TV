@@ -6,5 +6,8 @@
   "profession": "TikToker, YouTuber, streamer",
   "biography": "Timgioh is a German content creator who rose to fame on TikTok and YouTube. He has Fanconi anemia, a rare genetic disorder, which he discusses openly. Known for gaming content and has millions of followers across platforms.",
   "platforms": ["TikTok", "YouTube", "Twitch"],
-  "notable_topics": "Gaming, personal health struggles"
+  "notable_topics": "Gaming, personal health struggles",
+  "sources": ["KuchenTV videos", "News articles"],
+  "first_appearance_date": "2019-01-01",
+  "total_videos_count": 67
 }

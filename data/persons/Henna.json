@@ -5,6 +5,9 @@
   "nationality": "German",
   "profession": "Content creator, podcaster, reality TV participant",
   "biography": "Henna is a German content creator and podcaster known for her podcast 'Brave Mädchen' with Suki. She gained fame through reality TV appearances and discusses impulsive decisions and strong opinions in her content.",
+  "sources": ["KuchenTV videos", "Social media discussions"],
+  "first_appearance_date": "2020-01-01",
+  "total_videos_count": 45,
   "platforms": ["YouTube", "Instagram", "Podcast"],
   "notable_work": "Brave Mädchen podcast"
 }

@@ -5,6 +5,9 @@
   "nationality": "German",
   "profession": "Streamer",
   "biography": "Twizzy is a German streamer who has been convicted of assault. Involved in various streamer conflicts and legal issues.",
+  "sources": ["Wikipedia (German)", "Official music charts"],
+  "first_appearance_date": "2024-01-01",
+  "total_videos_count": 1,
   "platforms": ["Twitch"],
   "notable_incidents": "Assault conviction"
 }

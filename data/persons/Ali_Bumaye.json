@@ -6,5 +6,8 @@
   "profession": "Rapper, comedian, entertainer",
   "biography": "Ali Bumaye is a German-Palestinian rapper and entertainer known for albums like 'Fette Unterhaltung' and 'Rumble in the Jungle'. He started as a battle rapper and has become a prominent figure in German hip-hop with hit singles and comedy work.",
   "platforms": ["Music", "YouTube"],
+  "sources": ["KuchenTV videos", "News articles"],
+  "first_appearance_date": "2019-01-01",
+  "total_videos_count": 34,
   "notable_albums": ["Fette Unterhaltung", "Rumble in the Jungle"]
 }
