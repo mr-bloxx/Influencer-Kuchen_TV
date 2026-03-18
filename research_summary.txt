@@ -1,0 +1,44 @@
+# KuchenTV Research Summary
+
+## Channel Overview
+- **Creator**: Tim Heldt (born 1996, Eisenach, Germany)
+- **Founded**: 2014
+- **Subscribers**: 1.19 million
+- **Videos**: 1799
+- **Style**: Direct, humorous, controversial, unscripted content
+- **Content Focus**: Gaming, comedy, political commentary, talk shows
+
+## Key Channels
+- KuchenTV (main): Gaming and talk content
+- iKuchen: 196k subscribers, secondary channel
+- KuchenTV Uncut: 242k subscribers, uncensored content
+- Gameplay Channel: KuuchenGeschmack
+
+## Social Media Presence
+- Instagram: @kuchentv
+- Twitch: KuchenTV
+- Discord: kuchentv
+- Steam Group: Kuchenrepublik
+- Website: needitnow.de (clothing brand)
+
+## Content Analysis
+- Started with baking tutorials
+- Evolved to gaming streams and videos
+- Famous for "Kuchen Talks" unscripted discussions
+- Controversial topics: politics, gaming drama, personal stories
+- Collaborations with German influencers (Joyce Ilg, Ben, etc.)
+
+## Evidence Sources
+- YouTube channel data (MCP browser scraping)
+- Google search results for biography
+- ChatGPT analysis for content insights
+- Video descriptions and participant identification
+
+## Key Videos Sample
+1. ApoRed insolvency discussion - Kuchen Talks #734
+2. Ungescripted with Ben - free speech topics
+3. Joyce Ilg interview - celebrities and aliens
+4. Exsl awkward interview on gameplay channel
+5. Fortnite matchmaking with kids (satirical)
+
+All data collected evidence-based using authenticated browser tools and AI analysis.
